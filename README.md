@@ -17,7 +17,7 @@ const jitendra= {
        
         databases: ["MongoDB", "MySQL"]
     },
-    currentFocus: "Comptetive Programming using C++",
+    currentFocus: "Competitive Programming using C++",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
