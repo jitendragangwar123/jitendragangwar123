@@ -17,8 +17,8 @@ const jitendra= {
        
         databases: ["MongoDB", "MySQL"]
     },
-    currentFocus: "Competitive Programming using C++",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    currentFocus: "Exploring the Blockchain Technology Usecases",
+    funFact: "There are two ways to write error-free programs,only the third one works"
 };
 ```
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I am interesting to talk with different people on different new technologies</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
