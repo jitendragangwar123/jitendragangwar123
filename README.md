@@ -51,7 +51,7 @@ const jitendra= {
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitendragangwar123&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Jitendra Gangwar Github Stats" width="48%" align="right" >
 
-<img src="https://github-readme-stats.vercel.app/api?username=jitendragangwar123&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Jitendra Gangwar Github Streak" width="48%" >
+<img src="https://github-readme-stats.vercel.app/api?username=jitendragangwar123&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Jitendra Gangwar Github Streak" width="48%" align="left" >
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jitendragangwar123&theme=dark&hide_border=false" alt="Jitendra Gangwar Github Streak" >
