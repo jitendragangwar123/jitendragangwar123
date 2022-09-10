@@ -59,12 +59,11 @@ const jitendra= {
 
 ---
 
-[![spyder github activity graph]
-(https://activity-graph.herokuapp.com/graph?username=jitendragangwar123&theme=react-dark)](https://github.com/jitendragangwar123)
+[![spyder github activity graph](https://activity-graph.herokuapp.com/graph?username=jitendragangwar123&theme=react-dark)](https://github.com/jitendragangwar123)
 
 ### 🐍 Watch Snake eating my contribution
 
-![snake svg] (https://github.com/jitendragangwar123/jitendragangwar123/blob/output/github-contribution-grid-snake.svg)
+![snake svg](https://github.com/jitendragangwar123/jitendragangwar123/blob/output/github-contribution-grid-snake.svg)
 
 <!-- footer image -->
 ![](https://i.imgur.com/waxVImv.png)
