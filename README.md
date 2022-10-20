@@ -9,7 +9,7 @@ const jitendra= {
     askMeAbout: ["WebDevelopment", "CP", "Blockchain", "Cloud Computing"],
     technologies: {
         frontEnd: {
-            basicTech: ["HTML","CSS","JS","ReactJs"]
+            basicTech: ["HTML","CSS","JS","ReactJs","Next.Js"]
         },
         backEnd: {
             nodeJs: ["ExpressJS"]
@@ -17,11 +17,11 @@ const jitendra= {
        
         databases: ["MongoDB", "MySQL"]
     },
-    currentFocus: "Exploring the Blockchain Technology Usecases",
+    currentFocus: "Exploring the Blockchain Technology Use-cases like NFTs,DeFi,Supply-Chain Management System",
     funFact: "There are two ways to write error-free programs,only the third one works"
 };
 ```
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I am interesting to talk with different people on different new technologies</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I am interesting to talk with different people on different new technologies like Blockchain,Cloud Computing etc.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 **Programming Languages**
 
