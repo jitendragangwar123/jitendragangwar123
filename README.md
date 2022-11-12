@@ -46,7 +46,6 @@ const jitendra= {
 <a href="https://leetcode.com/gangwarjeetu_123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="40" width="50" />
 <a href="https://auth.geeksforgeeks.org/user/gangwarjacob/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gfg" height="40" width="50" /></a>
 </p>
-|--|--|--|--|--|--|    
 
 
 **GitHub Stats**
