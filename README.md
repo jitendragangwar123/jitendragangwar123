@@ -60,8 +60,6 @@ const jitendra= {
 
 ---
 
-<a href="https://github.com/jitendragangwar123"><img src="contributions.svg"></a>
-<img width="0" src="https://visitor-badge.glitch.me/badge?page_id=jitendragangwar123.jitendragangwar123"/>
 
 
 <!-- footer image -->
