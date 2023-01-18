@@ -60,7 +60,8 @@ const jitendra= {
 
 ---
 
-[![spyder github activity graph](https://activity-graph.herokuapp.com/graph?username=jitendragangwar123&theme=react-dark)](https://github.com/jitendragangwar123)
+<a href="https://github.com/jitendragangwar123"><img src="contributions.svg"></a>
+<img width="0" src="https://visitor-badge.glitch.me/badge?page_id=tondrejk.tondrejk" />
 
 
 <!-- footer image -->
