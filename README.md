@@ -3,21 +3,20 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const jitendra= {
+const jitendra = {
     pronouns: "He" | "His",
-    code: ["C++", "JavaScript", "Java","Python","Solidity"],
-    askMeAbout: ["WebDevelopment", "CP", "Blockchain", "Cloud Computing"],
+    code: ["C++", "JavaScript", "Python", "Solidity"],
+    askMeAbout: ["Blockchain Technology", "WebDevelopment", "Cloud Computing"],
     technologies: {
         frontEnd: {
-            basicTech: ["HTML","CSS","JS","ReactJs","Next.Js"]
+            basicTech: ["HTML", "CSS", "JavaScript", "ReactJs", "NextJs"]
         },
         backEnd: {
             nodeJs: ["ExpressJS"]
         },
-       
         databases: ["MongoDB", "MySQL"]
     },
-    currentFocus: "Exploring the Blockchain Technology Use-cases like NFTs,DeFi,Supply-Chain Management System",
+    currentFocus: "Exploring the E2E Lifecycle Management for achieving a Net-Zero Transition through Blockchain Technology.",
     funFact: "There are two ways to write error-free programs,only the third one works"
 };
 ```
