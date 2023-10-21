@@ -1,4 +1,5 @@
 ### Hi there 👋
+![265888971-f0ea5680-1c02-4cd6-b3e8-ec06e282ea5f](https://github.com/jitendragangwar123/jitendragangwar123/assets/76531339/a50b0128-15a6-4666-80d2-b82057ea589d)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
