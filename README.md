@@ -10,7 +10,7 @@ const jitendra = {
     askMeAbout: ["Blockchain Technology", "Cryptography", "Web Development", "Cloud Computing"],
     technologies: {
         frontEnd: {
-            basicTech: ["HTML", "CSS", "JavaScript", "ReactJs", "NextJs"]
+            basicTech: ["HTML", "CSS", "JavaScript", "TypeScript", "ReactJs", "NextJs"]
         },
         backEnd: {
             nodeJs: ["ExpressJS"]
