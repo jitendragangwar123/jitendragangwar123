@@ -25,8 +25,8 @@ const jitendra = {
 
 **Programming Languages**
 
-<img title="solidity" alt="solidity" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/solidity/solidity.png">|<img title="C++" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png">|<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="GO" title="Golang" width="40px" src="https://github.com/rfyiamcool/golang_logo/blob/master/png/golang_31.png">
-|--|--|--|--|--|
+<img title="solidity" alt="solidity" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/solidity/solidity.png">|<img title="C++" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png">|<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="TS" title="TypeScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png">|<img alt="GO" title="Golang" width="40px" src="https://github.com/rfyiamcool/golang_logo/blob/master/png/golang_31.png">|<img alt="Rust" title="RUST" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/rust/rust.png">
+|--|--|--|--|--|--|--|
 
 
 **Databases**
