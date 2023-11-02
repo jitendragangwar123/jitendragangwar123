@@ -6,8 +6,8 @@
 ```javascript
 const jitendra = {
     pronouns: "He" | "His",
-    code: ["C++", "JavaScript", "Python", "Solidity"],
-    askMeAbout: ["Blockchain Technology", "WebDevelopment", "Cloud Computing"],
+    code: ["Solidity", "Yul", "Rust", "C++", "JavaScript", "Python"],
+    askMeAbout: ["Blockchain Technology", "Cryptography", "Web Development", "Cloud Computing"],
     technologies: {
         frontEnd: {
             basicTech: ["HTML", "CSS", "JavaScript", "ReactJs", "NextJs"]
