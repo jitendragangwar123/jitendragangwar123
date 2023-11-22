@@ -24,7 +24,6 @@ const jitendra = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I am interesting to talk with different people on different new technologies like Blockchain,Cloud Computing etc.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 **Programming Languages**
-
 <img title="solidity" alt="solidity" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/solidity/solidity.png">|<img title="C++" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png">|<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="TS" title="TypeScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png">|<img alt="GO" title="Golang" width="40px" src="https://github.com/rfyiamcool/golang_logo/blob/master/png/golang_31.png">|<img alt="Rust" title="RUST" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/rust/rust.png">
 |--|--|--|--|--|--|--|
 
