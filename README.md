@@ -8,19 +8,25 @@
 ```javascript
 const jitendra = {
     pronouns: "He" | "His",
-    code: ["Solidity", "Yul", "Rust", "C++", "JavaScript", "Python"],
+    code: ["Solidity", "Cairo", "Yul", "Rust", "C/C++", "Python"],
     askMeAbout: ["Blockchain Technology", "Cryptography", "Web Development", "Cloud Computing"],
+    experience: ["Blockchain Development"],
     technologies: {
         frontEnd: {
-            basicTech: ["HTML", "CSS", "JavaScript", "TypeScript", "ReactJs", "NextJs"]
+            basicTech: ["HTML", "CSS", "JavaScript", "TypeScript", "ReactJs", "NextJs", "ReactNative"]
         },
         backEnd: {
-            nodeJs: ["ExpressJS"]
+            nodeJs: ["ExpressJS"],
+            rust: ["Actix Web"] 
         },
-        databases: ["MongoDB", "MySQL"]
+        databases: ["MongoDB", "PostgreSQL", "MySQL"],
+        blockchain: {
+            tools: ["Hardhat", "Truffle", "Remix", "Foundry", "Brownie", "OpenZeppelin", "Ganache", "Anchor", "Web3.js", "Ethers.js"],
+            platforms: ["Ethereum", "Solana", "Polygon", "Sei", "Starknet", "Diamante-net", "Stellar", "Base"]
+        }
     },
     currentFocus: "Exploring the E2E Lifecycle Management for achieving a Net-Zero Transition through Blockchain Technology.",
-    funFact: "There are two ways to write error-free programs,only the third one works"
+    funFact: "There are two ways to write error-free programs, only the third one works"
 };
 ```
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I am interesting to talk with different people on different new technologies like Blockchain,Cloud Computing etc.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
